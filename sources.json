@@ -1,0 +1,13 @@
+{
+  "license": "0BSD",
+  "demo_content": "Fictional sample profile and projects written for this template. Not endorsements of real products.",
+  "artwork": {
+    "files": [
+      "dist/assets/**/*.svg"
+    ],
+    "source": "Original vector geometry authored for this template; no imported photographs, screenshots, icon packs, or logos.",
+    "license": "0BSD"
+  },
+  "fonts": "System fonts only. No font files are distributed.",
+  "dependencies": []
+}

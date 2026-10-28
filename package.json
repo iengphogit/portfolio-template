@@ -1,0 +1,30 @@
+{
+  "name": "portfolio-template",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs",
+    "check": "node --check server.mjs && node --check dist/site.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "description": "A responsive portfolio starter with light and dark themes, project filters, and product detail dialogs.",
+  "license": "0BSD",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iengphogit/portfolio-template.git"
+  },
+  "keywords": [
+    "portfolio",
+    "template",
+    "html",
+    "css",
+    "responsive",
+    "dark-mode",
+    "0bsd"
+  ],
+  "author": "Ieng Pho"
+}
