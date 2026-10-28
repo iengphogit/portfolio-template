@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://iengphogit.github.io/portfolio-template/sitemap.xml

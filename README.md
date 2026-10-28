@@ -4,6 +4,8 @@ A responsive portfolio for developers, designers, and independent makers. A quie
 
 **Free for personal and commercial use. No attribution required.** Use it, change it, redistribute it, or sell your version under the [0BSD license](LICENSE).
 
+[Live demo](https://iengphogit.github.io/portfolio-template/) · [Use this template](https://github.com/new?template_name=portfolio-template&template_owner=iengphogit)
+
 ![Portfolio preview in light mode](docs/preview-light.png)
 
 <details>
@@ -62,7 +64,7 @@ Environment values come from your shell or hosting provider. `.env.example` docu
 | `dist/robots.txt`, `dist/sitemap.xml` | Replace the example domain with your own |
 | `dist/404.html` | Your name and the home/asset paths for your hosting location |
 
-The sample person, projects, interfaces, and claims are fictional demonstration content. Replace `Alex Morgan`, `hello@example.com`, and every `https://example.com` URL before launching your portfolio. Sample project links intentionally lead to placeholder URLs. Card summaries live in HTML; the corresponding dialog content lives in `productData` in JavaScript.
+The sample person, projects, interfaces, and claims are fictional demonstration content. Replace `Alex Morgan`, `hello@example.com`, every `https://example.com` placeholder, and the published demo URL `https://iengphogit.github.io/portfolio-template/` before launching your portfolio. Sample project links intentionally lead to placeholder URLs. Card summaries live in HTML; the corresponding dialog content lives in `productData` in JavaScript.
 
 To add a project, duplicate an `<article class="project">` in `dist/index.html` and add a matching entry to `productData`. Its `data-product` button value must match the object key. `data-platform` is a space-separated list matching the filter buttons. Update the initial project count when adding or removing cards.
 
